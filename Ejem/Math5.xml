@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math>
+
+<grado>
+        <titulo>5</titulo>
+        
+<!--__________________________UNIDAD__**_____________________________-->
+        <unidad><titulo>Unidad 1</titulo>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Cotas, extremos, máximos y mínimos de conjuntos de números reales.
+Intervalos</titulo>
+                <subtema>
+                    <titulo>Titulo de subTema2</titulo>
+                    <teorico>Teorico</teorico>
+                    <herramientas>
+                        <teoremas>
+                            <teorema>
+                                <titulo>Nombres</titulo>
+                                <hipotesis>Nombres</hipotesis>
+                                <teoria>Nombres</teoria>
+                                <demostracion>Columbia</demostracion>
+                            </teorema>
+                        </teoremas>
+
+                        <axiomas>
+                            <axioma>
+                                <titulo>Nombres</titulo>
+                                <explicacion>Implica Máximo y Mínimo absoluto</explicacion>
+                                <demostracion>idPractico_Y_Demostracion</demostracion>
+                            </axioma>
+                        </axiomas>
+
+                        <terminos>
+                            <termino>
+                                <titulo>Function continua</titulo>
+                                <explicacion>Implica Máximo y Mínimo absoluto</explicacion>
+                                <demostracion>idPractico_Y_Demostracion</demostracion>
+                                <apendices>Máximo y Mínimo absoluto</apendices>            
+                            </termino>            
+                        </terminos>
+
+                    </herramientas> 
+                </subtema>
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Determinación de regiones en 2 R limitadas por un conjunto de
+restricciones estructurales y de no negatividad</titulo>
+
+            </tema>
+        
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Curvas de nivel de una función de dos variables</titulo>
+
+            </tema>
+        
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Resolución de problemas de máximos y mínimos extraídos de un
+contexto real</titulo>
+
+            </tema>
+        </unidad>
+        
+<!--__________________________UNIDAD___**_____________________________-->
+        <unidad><titulo>Unidad 2</titulo>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Operaciones con funciones polinómicas: suma, multiplicación, división</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>División por (x-a). Esquema de Ruffini</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Ley del resto</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Raíz de un polinomio. Teorema de Descartes</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Descomposición factorial. Número de raíces de un polinomio</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Estudio del signo de funciones polinómicas</titulo>
+
+            </tema>
+
+        </unidad>
+
+<!--__________________________UNIDAD__**_____________________________-->
+        <unidad><titulo>Unidad 3</titulo>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Noción de límite finito en un punto de abscisa x=a para funciones
+polinómicas de grado menor o igual que 2 y funciones definidas a
+intervalos. Límites laterales. Representación gráfica</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Límite de una suma y de un producto de funciones</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Noción de continuidad de una función en un punto y en un intervalo
+utilizando funciones definidas a intervalos</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Incrementos. Cociente incremental. Cálculo. Significado del cociente
+incremental. Interpretación geométrica. Vínculo con el gráfico de la
+función</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Derivada en un punto. Aplicar la definición a funciones polinómicas de
+grado menor o igual que 2</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Tangente a una curva en un punto desde el punto de vista geométrico.
+Relación con la derivada en un punto</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Tangente a una curva en un punto desde el punto de vista geométrico.
+Relación con la derivada en un punto</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Noción de función derivada. Deducción de las funciones derivadas de
+las funciones polinómicas de grado menor o igual que 2</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Tabla de derivadas de funciones: 
+f(x)=k, f(x)=x, f(x)=kx,
+f(x)=a^x, a pertenece a R*
+f(x)=a.e^(mx+n),
+f(x)=log[base a] (x), a [from] R* y a!=1,
+f(x)=sen(ax+b), f(x)=cos(ax+b)</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Derivada de una suma, un producto y un cociente de funciones</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Crecimiento, decrecimiento. Extremos relativos. Extremos absolutos en
+un intervalo cerrado</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Relación entre la variación de una función y el signo de la función
+derivada</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Resolución de problemas de optimización que involucren funciones
+polinómicas de grado menor o igual que 3</titulo>
+
+            </tema>
+
+        </unidad>
+<!--__________________________UNIDAD__**_____________________________-->
+        <unidad><titulo>Unidad 4</titulo>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Dada la función polinómica, estudiar:
+Definición, dominio, ceros y signo. Cálculo de límite para tendencia finita
+e infinita. Cálculo de la función derivada. Variación. Representación
+gráfica. Problemas de optimización que involucren la función estudiada</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Dada la función racional f(x)=(ax+b)/(xc+d), estudiar:
+Definición, dominio, ceros y signo.
+Concepto de límite infinito en un punto. Asíntota vertical.
+Concepto de límite finito e infinito para tendencia infinita. Asíntota
+horizontal.
+Cálculo de límite para tendencia finita e infinita. Cálculo de la función
+derivada. Variación. Representación gráfica. Problemas de optimización
+que involucren la función estudiada</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Cálculo de límite para tendencia finita e infinita en funciones de la forma:
+                f(x)=a^(kx),
+                a[from] y k[from]R</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Introducción del número “e” mediante la aproximación de valores
+funcionales de f(x)=(1+[1/1])^x</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Dada la función exponencial f(x)=a.e^(mx+n),{a,m,n}[subconjunto parcial] R, estudiar:
+Definición, dominio, ceros y signo. Cálculo de límite para tendencia finita
+e infinita. Cálculo de la función derivada. Variación. Representación
+gráfica. Problemas de optimización que involucren la función estudiada</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Dada la función logarítmica f(x)=L(mx+n), {m,n}[subconjunto parcial] R, estudiar:
+Definición, dominio, ceros y signo. Cálculo de límite para tendencia finita
+e infinita. Cálculo de la función derivada. Variación. Representación
+gráfica. Problemas de optimización que involucren la función estudiada.</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Dadas las funciones trigonométricas f(x)=sen(x), g(x) = cos(x), estudiar:
+Representación gráfica, ceros y signos.
+Líneas trigonométricas para ángulos notables. Elaboración de tablas.
+Relaciones fundamentales. Fórmulas de f(x+y) y g(x+y). 
+Función derivada de las funciones f(x)=sen(x), g(x)=cos(x)</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Funciones trigonométricas inversas: f(x)=Arcsen(x) y g(x)=Arccos(x)</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Cálculo de preimágenes en las funciones f y g anteriores</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Ecuaciones trigonométricas sencillas</titulo>
+
+            </tema>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Problemas de optimización aplicados a funciones circulares</titulo>
+
+            </tema>
+        </unidad>
+<!--__________________________UNIDAD__**_____________________________-->
+        <unidad><titulo>Unidad 5</titulo>
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Reglas de la suma y el producto. Diagramas de árbol</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Arreglos, permutaciones, combinaciones: definiciones y fórmulas de
+cálculo</titulo>
+
+            </tema>
+
+    <!--__________________________TEMA_//___________________________________________________________-->
+            <tema>
+                <titulo>Aplicaciones a problemas de conteo</titulo>
+
+            </tema>
+
+        </unidad>
+
+
+        <bibliografia>
+            <libro> Cálculo, conceptos y contextos. James Stewart. International
+Thomson Editores. </libro>
+            <libro> Bachillerato Matemáticas. Tomos: 1, 2 y 3. J. Colera Jiménez, M. De
+Guzmán Ozamiz. Editorial Anaya.</libro>
+            <libro> Introducción a la Programación Lineal. Ejercicios resueltos. Profs. A.
+Coló, H. Patritti. UTU.</libro>
+            <libro> Aplicaciones de la Derivada. Profs. A. Coló, H. Patritti. UTU.</libro>
+            <libro> Precálculo. Raymond A. Barnett. Editorial Limusa.</libro>
+            <libro> Cálculo con geometría analítica. Earl W. Swokosky.</libro>
+            <libro> Cálculo infinitesimal. M. Spivak.</libro>
+        </bibliografia>
+    </grado>
+</math>
