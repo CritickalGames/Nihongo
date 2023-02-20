@@ -11,6 +11,7 @@ function eventos() {
 function carga() {
     displayResult("XArchivos/Botones","XArchivos/xBotones", "botones");
     displayResult("XArchivos/1- el ABC del japonés, parte 1","XArchivos/xClases", "contenido");
+    displayResult("XArchivos/2- ABC del japonés, parte 2","XArchivos/xClases", "contenido");
     displayResult("XArchivos/1- el ABC del japonés, parte 1","XArchivos/xClases", "contenido");
 }
 
