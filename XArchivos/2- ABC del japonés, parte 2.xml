@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<clase><titulo>Clase 1: El ABC del japones</titulo>
+    <tema titulo="Sistemas de escritura">
+        <subtema>
+            <p parrafo="">
+                Hay 3 sistemas de escritura: los kanas(que pueden ver con el botón de arriba a la izquierda) y conformados por hiragana(ひらがな) y katakana(カタカナ). El tercer son los Kanjis(漢字).
+            </p>
+        </subtema>
+        <subtema titulo= "Hiragana">
+            <p parrafo="">
+                El primero método del que hablaré se llama “Hiragana”.
+            </p>
+            <p parrafo="">
+                El Hiragana es el primer sistema de escritura(o también se le puede conocer como “Silabario”) que se le enseña a los niños en Japón y el que considero el más importante ya que, salvo contadas excepciones, siempre está presente.
+            </p>
+            <p parrafo="">
+                Para identificar los hiraganas(ひらがな) y diferenciarlos del katakana(カタカナ) veremos que ambos son caracteres simples de no más de 3 o 5 trazos, pero el ひらがな es más curvo que el カタカナ.
+            </p>
+            <p parrafo="">
+                Hay algs kanas que coinciden entre sí en la tabla del ひらがな y la tabla del カタカナ. へ(he) y りリ(ri) son fáciles de confundir. El primero porque en abmos silabarios son el mismo caracter y el segundo porque según la tipografía puede confundirse un poco.
+            </p>
+            <p parrafo="">
+                Pero hablando especificamente del ひらがな. 
+            </p>
+        </subtema>
+        <subtema titulo="Pimero: sus usos.">
+            <p parrafo="">
+                Como dije antes, el ひらがな es el primer sistema de escritura que aprenden en 日本(にほん), y por ende, empezaremos por ahí.
+            </p>
+            <p parrafo="ta">
+                <tabla type="" titulo="Los usos del ひらがな">
+                    <tr>
+                        ➢ El hiragana es la representación fonética de las silabas.
+                    </tr>
+                    <tr>
+                        ➢ El hiragana sirve para escribir onomatopeya. Como en Jojo's. Muchas veces las veras en gritos como el famoso “Kyaaa”. Primero aparecerá la sílaba combinada(mira la tabla de la derecha en la imagen anterior) y luego una sucesión de sílabas “A”.
+                    </tr>
+                    <tr>
+                        ➢ El hiragana puede sustituir todo: kanji, katakana y romanji(luego hablaré del romanji).
+                    </tr>
+                    <tr>
+                        ➢ El hiragana es usado en palabras de origen japones.
+                    </tr>
+                    <tr>
+                        ➢ El hiragana es usado en las tan famosas, y odiadas, “Partículas”. Algo de gramática.
+                    </tr>
+                    <tr>
+                        ➢ El hiragana es usado en las conjugaciones, como “食べる”siendo “TA” el kanji y “beru”(べる) la terminación en hiragana que te dice que está en su forma diccionario (ver clase 3).
+                    </tr>
+                    <tr>
+                        ➢ El hiragana se usa para el Furigana, que son pequeños hiraganas al lado de un kanji para enseñar su lectura. Ejemplo: 食「た」べる。El furigana se encuentra en cosas infantiles como One Piece, Detective Conan, Komi san, etc. Cosas para todo el publico. 
+                    </tr>
+                </tabla>
+            </p>
+        </subtema>
+              
+    </tema>
+
+</clase>

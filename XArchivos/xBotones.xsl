@@ -9,14 +9,20 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <div class="form-floating">
         <select name="clases" class="form-select" id="floatingSelect">
             <xsl:for-each select="grado">
-                <option>
-                    <button class="boton_">
+                
+                <xsl:if test="./@estado=&quot;x&quot;">
+                    <option class="bg-warning text-dark">
                         <xsl:value-of select="."/>
-                    </button>
-                </option>
+                    </option>
+                </xsl:if>
+                <xsl:if test="./@estado=&quot;&quot;">
+                    <option class="">
+                        <xsl:value-of select="."/>
+                    </option>
+                </xsl:if>
             </xsl:for-each>
         </select>
- <label for="floatingSelect">Temas</label>
+ <label for="floatingSelect">Clase</label>
     </div>
 
 
