@@ -10,7 +10,7 @@ function eventos() {
 
 function carga() {
     displayResult("XArchivos/Botones","XArchivos/xBotones", "botones");
-    displayResult("XArchivos/"+$('select[name=clases]').val(),"XArchivos/xClases", "contenido");
+    displayResult("XArchivos/1-%20el%20ABC%20del%20japonés,%20parte%201.xml","XArchivos/xClases", "contenido");
 }
 
 
