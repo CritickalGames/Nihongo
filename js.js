@@ -10,8 +10,7 @@ function eventos() {
 
 function carga() {
     displayResult("XArchivos/Botones","XArchivos/xBotones", "botones");
-    displayResult("XArchivos/1- el ABC del japonés, parte 1","XArchivos/xClases", "contenido");
-    alert("ka");
+    displayResult("XArchivos/"+$('select[name=clases]').val(),"XArchivos/xClases", "contenido");
 }
 
 
