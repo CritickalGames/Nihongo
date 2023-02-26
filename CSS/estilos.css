@@ -1,3 +1,22 @@
+p{
+    text-indent: 1.2em;
+}
+
+div{
+    border: 1px solid black;
+}
+.morado{
+    background-color: #6B04FF;
+}
+.verde{
+    background-color: #59cf55;
+}
+.naranja{
+    background-color: #FF5B04;
+}
+div.estandar{
+    background-color: #ec5555;
+}
 
 table{
     display: table;
@@ -9,6 +28,7 @@ table{
 table.celdas tr td{
     border: 1px solid black;
     text-align-last: center;
+    min-width: 150px;
 }
 
 table.cajas tr td{

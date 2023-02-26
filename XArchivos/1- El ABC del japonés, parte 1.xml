@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<clase><titulo>Clase 1: El ABC del japones</titulo>
+<clase><titulo>Clase 1: El ABC del japonés, parte 1</titulo>
     <tema titulo="Sistemas de escritura">
         <subtema>
             <p parrafo="">
-                Hay 3 sistemas de escritura: los kanas(que pueden ver con el botón de arriba a la izquierda) y conformados por hiragana(ひらがな) y katakana(カタカナ). El tercer son los Kanjis(漢字).
+                Hay 3 sistemas de escritura: los kanas(que pueden ver con el botón de arriba a la izquierda) y conformados por hiragana(ひらがな) y katakana(カタカナ). El tercero son los Kanjis(漢字).
             </p>
         </subtema>
         <subtema titulo= "Hiragana">
@@ -30,7 +30,7 @@
                 Como dije antes, el ひらがな es el primer sistema de escritura que aprenden en 日本(にほん), y por ende, empezaremos por ahí.
             </p>
             <p parrafo="ta">
-                <tabla type="" titulo="Los usos del ひらがな">
+                <tabla class="" titulo="Los usos del ひらがな">
                     <tr>
                         ➢ El hiragana es la representación fonética de las silabas.
                     </tr>
@@ -58,7 +58,7 @@
             
         <subtema titulo="Segundo: usar la tabla de 'kana'">
             <p parrafo="ta">
-                <tabla type="cajas" titulo="">
+                <tabla class="cajas" titulo="">
 
                     <tr parrafo="">
                         La tabla de la que hablo puedes verla arriba a la izquierda en un botón azul llamado "kanas".
@@ -88,7 +88,7 @@
                 
             </p>
             <p parrafo="ta">
-                <tabla type="cajas" titulo="">
+                <tabla class="cajas" titulo="">
 
                     <tr parrafo="">
                         Por cierto, la N es la única silaba que no tiene vocal y en el teclado se escribe "nn", pero se puede representar "n'" para no dar a malos confundidos.
@@ -105,7 +105,7 @@
                 </tabla>
             </p>
             <p parrafo="ta">
-                <tabla type="cajas" titulo="">
+                <tabla class="cajas" titulo="">
 
                     <tr parrafo="">
                         Hay algo que se les puede resultar extraño si han estudiado japonés antes y son las filas por debajo de la W. Esas filas probablemente nunca las hayáis visto, pero son importantes y fáciles de aprender.
@@ -127,7 +127,7 @@
                 La siguiente tabla muestra lecturas que no corresponden a las reglas de lectura intuitiva. Como en la fila de la "S": さしすせそ, que no se lee SA,SI,SU,SE,SO; sino que se lee SA,SHI,SU,SE,SO.
            </p>
             <p parrafo="ta">
-                <tabla type="celdas" titulo="">
+                <tabla class="celdas" titulo="">
                     <tr>
                         <td>し</td>
                         <td>ち</td>
@@ -157,7 +157,7 @@
         </subtema>
         <subtema titulo="Cuarto: convinar silabas">
             <p parrafo="ta">
-                <tabla type="cajas" titulo="Varios tipos de silabas fuera de las básicas">
+                <tabla class="cajas" titulo="Varios tipos de silabas fuera de las básicas">
                     <tr>
                         "Nya". Todos hemos oido ese sonidito que nos recuerda a un lindo gatito, pero, no sé si lo comprendiste, pero el japónes es un idioma silabaico, por lo que los sonidos que se pueden hacer son supuestamente unos 61 contando sonidos como BA y PA(de los que luego hablaré), pero si nos fijamos, "Nya" es de consonante N, pero no aparece en la fila de la N. ¿Cómo se soluciona? Pues, para emepzar: en la tabla de los kanas tienen los kanas convinados a la derecha, pero para sacarlos de manera intuitiva las reglás son más o menos las siguientes.
                     </tr>
@@ -187,7 +187,7 @@
                 U e I; porque alargan el sonido O y E, respectivamente.
             </p>
             <p parrafo="ta">
-                <tabla type="celdas" titulo="">
+                <tabla class="celdas" titulo="">
                     <tr>
                         <td>Consontante:</td>
                         <td>J</td>
@@ -218,7 +218,7 @@
                 Esto no se aplica al revés, por lo que "Ie" se lee "Ie"
             </p>
             <p parrafo="ta">
-                <tabla type="celdas" titulo="">
+                <tabla class="celdas" titulo="">
                     <tr>
                         <td>Vocal:</td>
                         <td>E+I</td>
@@ -255,7 +255,12 @@
             <p parrafo="">
                 Algo de cultura: Antes habían más kanas, pero se simplifico y ahora esos otros kanas se llaman “hentai ganas”https://www.youtube.com/watch?v=AkyafbG5ln4 El vídeo lo muestra(habla de más cosas, pero con ver las partes con los actores basta).
             </p>
-        </subtema>        
+        </subtema>
+        <subtema titulo="Recomendación">
+            <p parrafo="">
+                Pasa unas semanas con alguna app de aprender katakanas. Y no vayas por ahí preguntando "¿Cuál es la mejor aplicación para aprender el silabario?" Buscate una que se te acomode. Por ejemplo: hiragana katakana quiz, o Kanji Quest(es un juego para aprender japonés)
+            </p>
+        </subtema>     
     </tema>
 
 </clase>

@@ -3,7 +3,6 @@ window.addEventListener("load", eventos);
 
 function eventos() {
     $("select[name=clases]").change(function(){
-        alert($('select[name=clases]').val());
         displayResult("XArchivos/"+$('select[name=clases]').val(),"XArchivos/xClases", "contenido");
     });
 }
@@ -11,6 +10,7 @@ function eventos() {
 function carga() {
     displayResult("XArchivos/Botones","XArchivos/xBotones", "botones");
     displayResult("XArchivos/1- El ABC del japonés, parte 1","XArchivos/xClases", "contenido");
+    displayResult("XArchivos/3- Los Verbos","XArchivos/xClases", "contenido");
 }
 
 
